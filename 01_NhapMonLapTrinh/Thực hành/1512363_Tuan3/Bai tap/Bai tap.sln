@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai tap_1", "Bai tap\Bai tap.vcxproj", "{4770A93B-E7E3-457C-9036-2C58F3B4FDAD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Bai tap_2", "Bai tap_2\Bai tap_2.vcxproj", "{81A1F01B-0499-4D7A-837E-749662FD087F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4770A93B-E7E3-457C-9036-2C58F3B4FDAD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4770A93B-E7E3-457C-9036-2C58F3B4FDAD}.Debug|Win32.Build.0 = Debug|Win32
+		{4770A93B-E7E3-457C-9036-2C58F3B4FDAD}.Release|Win32.ActiveCfg = Release|Win32
+		{4770A93B-E7E3-457C-9036-2C58F3B4FDAD}.Release|Win32.Build.0 = Release|Win32
+		{81A1F01B-0499-4D7A-837E-749662FD087F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{81A1F01B-0499-4D7A-837E-749662FD087F}.Debug|Win32.Build.0 = Debug|Win32
+		{81A1F01B-0499-4D7A-837E-749662FD087F}.Release|Win32.ActiveCfg = Release|Win32
+		{81A1F01B-0499-4D7A-837E-749662FD087F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
